@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_30">30dp</dimen>
+    <dimen name="dice_width_and_height_150">150dp</dimen>
+    <dimen name="btn_text_size_20">20sp</dimen>
+    <dimen name="btn_roll_padding_15">15dp</dimen>
+</resources>
